@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Shin Dong Seok
 
 안녕하세요. 같이 일하고 싶어지는 개발자를 목표로 하는 주니어 백엔드 개발자 신동석입니다. (●'◡'●)
@@ -20,3 +22,4 @@
 
 # ☺Blog 
 <a href="https://dongseokstudy2.tistory.com/"><img src="https://img.shields.io/badge/Blog-5C1F87?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=https://dongseokstudy2.tistory.com/"/></a>
+</div>
