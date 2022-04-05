@@ -18,6 +18,5 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dss1222)](https://solved.ac/dss1222)
 
-# ☺Blog
-[티스토리 블로그](https://dongseokstudy2.tistory.com/) 
-  
+# ☺Blog 
+<a href="https://dongseokstudy2.tistory.com/"><img src="https://img.shields.io/badge/Blog-5C1F87?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=https://dongseokstudy2.tistory.com/"/></a>
